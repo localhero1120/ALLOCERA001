@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "role": "SUPERADMIN"
+    },
+    {
+      "id": 2,
+      "username": "Staff01",
+      "role": "STAFF"
+    }
+  ],
+  "departments": [
+    {
+      "id": 27,
+      "code": "U09",
+      "name": "BCA"
+    },
+    {
+      "id": 31,
+      "code": "U08",
+      "name": "BBA"
+    },
+    {
+      "id": 32,
+      "code": "U04",
+      "name": "B.A. English"
+    },
+    {
+      "id": 33,
+      "code": "U10",
+      "name": "B.Com"
+    },
+    {
+      "id": 34,
+      "code": "U15",
+      "name": "B.Sc., Bio-Chemistry"
+    },
+    {
+      "id": 35,
+      "code": "U17",
+      "name": "B.Sc., Chemistry"
+    },
+    {
+      "id": 36,
+      "code": "U18",
+      "name": "B.Sc., Computer Science"
+    },
+    {
+      "id": 37,
+      "code": "U48",
+      "name": "B.Sc., Data Science"
+    },
+    {
+      "id": 38,
+      "code": "U50",
+      "name": "B.Sc., Artificial Intelligence"
+    },
+    {
+      "id": 39,
+      "code": "P09",
+      "name": "M.Com"
+    },
+    {
+      "id": 40,
+      "code": "P15",
+      "name": "M.Sc., Computer Science"
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "LH 1",
+      "capacity": 30
+    },
+    {
+      "id": 2,
+      "name": "LH 2",
+      "capacity": 30
+    },
+    {
+      "id": 3,
+      "name": "LH 3",
+      "capacity": 30
+    },
+    {
+      "id": 4,
+      "name": "LH 4",
+      "capacity": 30
+    },
+    {
+      "id": 5,
+      "name": "LH 5",
+      "capacity": 30
+    },
+    {
+      "id": 6,
+      "name": "LH 6",
+      "capacity": 36
+    },
+    {
+      "id": 7,
+      "name": "LH 7",
+      "capacity": 36
+    },
+    {
+      "id": 8,
+      "name": "LH 8",
+      "capacity": 38
+    },
+    {
+      "id": 9,
+      "name": "LH 9",
+      "capacity": 36
+    },
+    {
+      "id": 10,
+      "name": "LH 10",
+      "capacity": 36
+    },
+    {
+      "id": 13,
+      "name": "LH 14",
+      "capacity": 40
+    },
+    {
+      "id": 15,
+      "name": "LH 15",
+      "capacity": 30
+    },
+    {
+      "id": 16,
+      "name": "LH 16",
+      "capacity": 30
+    },
+    {
+      "id": 17,
+      "name": "LH 17",
+      "capacity": 30
+    },
+    {
+      "id": 18,
+      "name": "LH 18",
+      "capacity": 30
+    },
+    {
+      "id": 19,
+      "name": "LH 19",
+      "capacity": 30
+    },
+    {
+      "id": 20,
+      "name": "LH 20",
+      "capacity": 30
+    },
+    {
+      "id": 21,
+      "name": "LH 21",
+      "capacity": 30
+    }
+  ],
+  "students_count": 1121,
+  "examinations_count": 104,
+  "timetables_count": 1753,
+  "arrears_count": 3298,
+  "seat_assignments_count": 1023,
+  "allocation_history_count": 25
+}

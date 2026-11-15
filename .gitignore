@@ -1,0 +1,27 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+
+# Database backups
+backup_*.json
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
+*.log
+
+# Certificates and SSL keys
+*.crt
+*.pem
+*.key
+certs/
